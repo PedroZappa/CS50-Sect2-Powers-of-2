@@ -16,7 +16,6 @@ int main(void) // Powers of 2
     // Set first value
     twice[0] = 1;
 
-
     if (length == 1)
     {
         printf("\narray[%i] = { %i }", length, twice[0]);
